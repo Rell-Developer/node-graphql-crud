@@ -1,4 +1,4 @@
-### GraphQL MySQL Typescript CRUD
+### GraphQL Postgres Typescript CRUD
 
 ### Installation
 
