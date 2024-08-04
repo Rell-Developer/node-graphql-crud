@@ -1,0 +1,6 @@
+# Carpetas
+dist
+node_modules
+
+# Varaibles de entorno
+.env
